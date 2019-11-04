@@ -1,0 +1,12 @@
+D:\git\windowsform\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+D:\git\windowsform\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+D:\git\windowsform\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+D:\git\windowsform\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+D:\git\windowsform\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+D:\git\windowsform\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+D:\git\windowsform\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+D:\git\windowsform\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+D:\git\windowsform\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+D:\git\windowsform\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+D:\git\windowsform\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+D:\git\windowsform\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
